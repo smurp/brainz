@@ -1,3 +1,4 @@
-# brainz
+# tiddly
 
-https://smurp.github.io/brainz
+https://smurp.github.io/tiddly
+
